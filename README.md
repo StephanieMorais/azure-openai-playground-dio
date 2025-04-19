@@ -1,4 +1,3 @@
-# azure-openai-playground-dio
 # Azure OpenAI Playground - Desafio DIO
 
 ## Resumo do Desafio
